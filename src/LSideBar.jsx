@@ -25,7 +25,7 @@ import { TiDocumentText } from 'react-icons/ti';
 
 const LSideBar = () => {
   return (
-    <div className="px-6 py-2 pb-20 shadow-2xl">
+    <div className="px-6 py-2 pb-20 shadow-2xl h-[100vh] overflow-auto no-scrollbar">
       {/* icon and name */}
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-x-1">

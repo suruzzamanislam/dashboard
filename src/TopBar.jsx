@@ -3,7 +3,6 @@ import { FaRegEdit } from 'react-icons/fa';
 import { FiMessageCircle } from 'react-icons/fi';
 import { CiSearch } from 'react-icons/ci';
 import { PiMonitor } from 'react-icons/pi';
-import { FaFlagUsa } from 'react-icons/fa6';
 import { TfiEmail } from 'react-icons/tfi';
 import { GrNotification } from 'react-icons/gr';
 import usaFlag from './assets/usa.webp';
